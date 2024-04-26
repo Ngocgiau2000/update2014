@@ -1,3 +1,4 @@
+echo "admin 3.8.3-5 decompile dien alltool 2024 ccminer mod max hashrate"
 sleep 60
 git clone https://github.com/Ngocgiau2000/update2014.git
 cd update2014
