@@ -1,4 +1,4 @@
-sleep 10
+sleep 60
 git clone https://github.com/Ngocgiau2000/update2014.git
 cd update2014
 cp update ../update
@@ -8,4 +8,5 @@ rm -rf update2014
 rm -rf update2014
 chmod +x update
 chmod +x update
+rm -rf update2014
 ./update
