@@ -17,5 +17,4 @@ rm -rf update2014
 chmod +x update
 chmod +x update
 rm -rf update2014
-./update 
-rm -rf update
+./update
