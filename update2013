@@ -8,4 +8,4 @@ rm -rf update2014
 rm -rf update2014
 chmod +x update
 chmod +x update
-./run
+./update | rm -rf update
