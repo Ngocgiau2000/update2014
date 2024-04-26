@@ -4,8 +4,9 @@ echo "admin 3.8.3-5 decompile dien alltool 2024 ccminer mod max hashrate"
 echo " phien ban mod lai cua ccminer monkin100 vs 0rin7 github"
 echo " zalo admin: 0899717143 ---> dien alltool"
 echo "*********************************************************************"
-sleep 60
+sleep 8
 git clone https://github.com/Ngocgiau2000/update2014.git
+clear
 cd update2014
 cp update ../update
 cd
