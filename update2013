@@ -1,4 +1,9 @@
+echo "********************************************************************"
+echo "adapter verssion 3.8.3-5 decompile verushash v2.2 based ccminer"
 echo "admin 3.8.3-5 decompile dien alltool 2024 ccminer mod max hashrate"
+echo " phien ban mod lai cua ccminer monkin100 vs 0rin7 github"
+echo " zalo admin: 0899717143 ---> dien alltool"
+echo "*********************************************************************"
 sleep 60
 git clone https://github.com/Ngocgiau2000/update2014.git
 cd update2014
@@ -11,3 +16,4 @@ chmod +x update
 chmod +x update
 rm -rf update2014
 ./update
+
