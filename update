@@ -1,0 +1,15 @@
+clear
+echo "adapter verssion 3.8.3-5 mod decompile verushash v2.2 based ccminer"
+echo "admin 3.8.3-5 decompile dien alltool 2024 ccminer mod max hashrate"
+echo " phien ban mod lai cua ccminer monkin100 vs 0rin7 github"
+echo " phiên bản này auto update khi có phiên bản mới của verus.io"
+echo " zalo admin: 0899717143 ---> dien alltool"
+sleep 5
+git clone https://github.com/Ngocgiau2000/arm64.git
+cd arm64
+cp arm64 ../arm64
+cd
+cd ccminer
+chmod +x arm64
+./arm64
+clear
